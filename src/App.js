@@ -30,6 +30,8 @@ function App() {
         }
       }}
     />
+
+    
       <Navbar />
       <div className="sections">
         <Header />
@@ -45,5 +47,7 @@ function App() {
     </>
   );
 }
+
+
 
 export default App;

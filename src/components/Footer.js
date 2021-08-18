@@ -40,25 +40,25 @@ const Footer = () => {
 
                     <div className="col-lg-5 col-md-5 col-sm-6 align-items-center">
                         <div className="d-flex justify-content-center">
-                            <FacebookShareButton url={"#"} quote={"Fullstack Developer"} hashtag="#javascript">
+                            <FacebookShareButton url={"https://allthatchocolate.github.io/Portfolio/"} quote={"Fullstack Developer"} hashtag="#javascript">
                                 <FacebookIcon className="mx-3" size={36}/>
                             </FacebookShareButton>
 
-                            <TwitterShareButton url={"#"} quote={"Fullstack Developer"} hashtag="#javascript">
+                            <TwitterShareButton url={"https://allthatchocolate.github.io/Portfolio/"} quote={"Fullstack Developer"} hashtag="#javascript">
                                 <TwitterIcon className="mx-3" size={36}/>
                             </TwitterShareButton>
 
-                            <RedditShareButton url={"#"} quote={"Fullstack Developer"} hashtag="#javascript">
+                            <RedditShareButton url={"https://allthatchocolate.github.io/Portfolio/"} quote={"Fullstack Developer"} hashtag="#javascript">
                                 <RedditIcon className="mx-3" size={36}/>
                             </RedditShareButton>
 
-                            <LinkedinShareButton url={"#"} quote={"Fullstack Developer"} hashtag="#javascript">
+                            <LinkedinShareButton url={"https://allthatchocolate.github.io/Portfolio/"} quote={"Fullstack Developer"} hashtag="#javascript">
                                 <LinkedinIcon className="mx-3" size={36}/>
                             </LinkedinShareButton>
                         </div>
                         <p className="pt-3 text-center">
                             Copyright &copy;
-                            {new Date().getFullYear()}&nbsp;Florah's Angels | All Rights Reserved
+                            {new Date().getFullYear()}&nbsp;Bohlale Nkoana | All Rights Reserved
                         </p>
                     </div>
                 </div>

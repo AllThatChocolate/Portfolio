@@ -19,8 +19,8 @@ function Portfolio() {
         const content =(
         <>
         <img className="portfolio-image-popupbox" src={pr1} alt="MyHope Web Portal" />
-        <p> This is a web portal designed to help train staff and provide them with user-manuals and shit.</p>
-        <b>Demo</b> <a className="hyper-link" onClick={() => window.open("http://197.242.64.234:81/wordpress", "_blank")} >http://197.242.64.234:81/wordpress</a>
+        <p> This is a web portal designed to make training staff easier and more accessible. It was developed using WordPress, WAMP Server, and Windows Remote Desktop Connection.</p>
+        <b>Demo</b> <a className="hyper-link" onClick={() => window.open("http://197.242.64.234:81/wordpress", "_blank")} >Click Here to view the website</a>
     </>
         )
         PopupboxManager.open({content});
@@ -40,8 +40,8 @@ function Portfolio() {
         const content =(
         <>
         <img className="portfolio-image-popupbox" src={pr2} alt="App4Leave Project" />
-        <p> This is an application designed to be used by HR departments within companies to book leave for employees</p>
-        <b>GitHub</b> <a className="hyper-link" onClick={() => window.open("#")} >Insert GitHub Link Here</a>
+        <p> This is an application designed to be used by HR departments within companies to book leave for employees. It was designed using AngularJS, and a .Net Web API</p>
+        <b>GitHub</b> <a className="hyper-link" onClick={() => window.open("https://github.com/AllThatChocolate/App4Leave")} >View this code first project on GitHub</a>
     </>
         )
         PopupboxManager.open({content});
@@ -61,8 +61,8 @@ function Portfolio() {
         const content =(
         <>
         <img className="portfolio-image-popupbox" src={portfolio} alt="Portfolio" />
-        <p> This portfolio was designed using React.JS, Particles.JS, and Bootstrap.JS</p>
-        <b>GitHub</b> <a className="hyper-link" onClick={() => window.open("http://197.242.64.234:81/wordpress", "_blank")} >http://197.242.64.234:81/wordpress</a>
+        <p> This portfolio was designed using JavaScript (ReactJS, ParticlesJS, EmailJS) and Bootstrap while being hosted on GitHub</p>
+        <b>Demo</b> <a className="hyper-link" onClick={() => window.open("https://allthatchocolate.github.io/Portfolio/", "_blank")} >This Link will reload the website</a>
     </>
         )
         PopupboxManager.open({content});

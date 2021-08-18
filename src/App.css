@@ -183,7 +183,11 @@ navbar-brand {
 
 @media (max-width: 760px) {
   .particles-canvas {
-    display: none;
+    /*display: none;*/
+    position: bottom left;
+    height: 10vh;
+    width: 30vh;
+    z-index: 1;
   }
 }
 
@@ -417,6 +421,7 @@ navbar-brand {
 
 .popupbox-wrapper {
   margin-top: 7rem;
+  align-items: center;
 }
 
 /*****************************************OVERFLOW BOX***********************************************/
@@ -506,7 +511,7 @@ navbar-brand {
   text-transform: uppercase;
 }
 
-.myCarousel h4 {
+.myCarousel h5 {
   color: var(--primary-orange);
   font-weight: 600;
   text-transform: uppercase;

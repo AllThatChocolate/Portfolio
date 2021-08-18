@@ -13,8 +13,8 @@ function Experience() {
                     <div className="timeline-content">
                         <h3>2021- Current</h3>
                         <h6><strong>Database Administrator at The National School Of Government</strong> with the following reponsibilites:</h6>
-                        <p>Analysing and Supporting Database using SSMS, MS Access, RDC</p><br/>
-                        <p> Writing custom SQL Scripts to fix any backend issues</p>
+                        <p> <b>*</b> Supporting a database using SSMS, MS Access, RDC <br/> <b>*</b> Analysing and Writing custom SQL Scripts to fix any backend issues that occur</p>
+
                     </div>  
                 </div>
 
@@ -23,7 +23,7 @@ function Experience() {
                     <div className="timeline-content">
                         <h3>2021- Current</h3>
                         <h6><strong>Trainee Developer at eSoftware Solutions</strong> with the following reponsibilites:</h6>
-                        <p>CRUD Application Development using Angular.JS, MS SSMS, Entity Framework and a .Net Web API</p>
+                        <p> <b>*</b> CRUD Application Development using Angular.JS, MS SSMS, Entity Framework and a .Net Web API</p>
                     </div>  
                 </div>
 
@@ -32,9 +32,7 @@ function Experience() {
                     <div className="timeline-content">
                         <h3>2020- 2021</h3>
                         <h6><strong>Internship at Grace Christian Private School</strong> with the following responsibilities</h6>
-                        <p>Web Development, deployment, and maintenece using WordPress, Elementor ad RDC</p>
-                        <p>Installing machinery and troubleshooting IT related issues exeprienced by staff</p>
-                        <p>Taught HTML to some kids</p>
+                        <p> <b>*</b> Web Development, deployment, and maintenece using WordPress, Elementor ad RDC <br/> <b>*</b> Installing machinery and troubleshooting IT related issues exeprienced by staff <br/> <b>*</b> Taught HTML to some kids</p>
                     </div>
                 </div>
 
@@ -43,8 +41,7 @@ function Experience() {
                     <div className="timeline-content">
                         <h3>2016- 2016</h3>
                         <h6><strong>Internship at CSIR</strong> with the following responsibilities:</h6>
-                        <p>Front End Application development using Android Studio and Java</p>
-                        <p>Partially responsible for the redesign of the "CMore" app that can be found on Google App store</p>
+                        <p> <b>*</b> Front End Application development using Android Studio and Java <br/> <b>*</b> Partially responsible for the redesign of the "CMore" app that can be found on Google App store</p>
                     </div>
                 </div>
 
