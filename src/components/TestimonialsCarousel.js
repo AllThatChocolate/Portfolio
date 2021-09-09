@@ -34,7 +34,7 @@ function TestimonialsCarousel() {
             </div>
         </> 
 
-        <>
+     {/*  <>
             <img src={avatar3} alt="James Doe"/>
             <div className="myCarousel">
                 <h5>James Doe</h5>
@@ -48,7 +48,7 @@ function TestimonialsCarousel() {
                 <h5>Jack Doe</h5>
                 <p>Bohlale Nkoana is an amazing software developer, athlete, and artist. He's a total gangster</p>
             </div>
-        </> 
+        </> */}
         </Carousel>
     )
 }
