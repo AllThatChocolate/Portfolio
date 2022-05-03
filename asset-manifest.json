@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bb0563d8.chunk.css",
-    "main.js": "/Portfolio/static/js/main.6700fa87.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.6700fa87.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.3172c736.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.3172c736.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.4267a342.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.4267a342.js.map",
     "static/css/2.037ffc89.chunk.css": "/Portfolio/static/css/2.037ffc89.chunk.css",
-    "static/js/2.8d4aa881.chunk.js": "/Portfolio/static/js/2.8d4aa881.chunk.js",
-    "static/js/2.8d4aa881.chunk.js.map": "/Portfolio/static/js/2.8d4aa881.chunk.js.map",
+    "static/js/2.d7b8e521.chunk.js": "/Portfolio/static/js/2.d7b8e521.chunk.js",
+    "static/js/2.d7b8e521.chunk.js.map": "/Portfolio/static/js/2.d7b8e521.chunk.js.map",
     "static/js/3.e754380c.chunk.js": "/Portfolio/static/js/3.e754380c.chunk.js",
     "static/js/3.e754380c.chunk.js.map": "/Portfolio/static/js/3.e754380c.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.037ffc89.chunk.css.map": "/Portfolio/static/css/2.037ffc89.chunk.css.map",
     "static/css/main.bb0563d8.chunk.css.map": "/Portfolio/static/css/main.bb0563d8.chunk.css.map",
-    "static/js/2.8d4aa881.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.8d4aa881.chunk.js.LICENSE.txt",
+    "static/js/2.d7b8e521.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d7b8e521.chunk.js.LICENSE.txt",
     "static/media/1.e1f0033c.JPG": "/Portfolio/static/media/1.e1f0033c.JPG",
     "static/media/2.70c63351.JPG": "/Portfolio/static/media/2.70c63351.JPG",
     "static/media/CV.ce2bf456.pdf": "/Portfolio/static/media/CV.ce2bf456.pdf",
+    "static/media/Sebitse.cfc4fad1.JPG": "/Portfolio/static/media/Sebitse.cfc4fad1.JPG",
+    "static/media/Thalone.d29c9bc2.JPG": "/Portfolio/static/media/Thalone.d29c9bc2.JPG",
     "static/media/about.8634bac8.jpg": "/Portfolio/static/media/about.8634bac8.jpg",
     "static/media/App.css": "/Portfolio/static/media/background.828a273d.png",
     "static/media/job-opportunities-svgrepo-com.4ad3c70e.svg": "/Portfolio/static/media/job-opportunities-svgrepo-com.4ad3c70e.svg",
@@ -27,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.4267a342.js",
     "static/css/2.037ffc89.chunk.css",
-    "static/js/2.8d4aa881.chunk.js",
+    "static/js/2.d7b8e521.chunk.js",
     "static/css/main.bb0563d8.chunk.css",
-    "static/js/main.6700fa87.chunk.js"
+    "static/js/main.3172c736.chunk.js"
   ]
 }
